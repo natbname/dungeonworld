@@ -1,0 +1,28 @@
+# dungeonworld
+DUNGEON WORLD: HOW TO PLAY
+
+Dungeon World will generate floors until you get a game over. You interact with each room on this floor by choosing to go towards the right or the left. Once you've interacted with every room, a new floor will be generated. 
+
+Your characater (the Hero) starts with the same base stats each time.
+They are:
+Max Life: 200. These are your starting hit points.
+Attack: 10. This is the damage that each attack will do.
+Defense: 7. A monster must have a higher attack than your defense to do damage to you.
+Speed: 7. You will attack first if your speed is higher than the monster's, and vice versa. 
+Money: 25. This can be used to buy items in the shop. Monsters will drop money when they’re killed.
+
+Your max life will never change, but the others can be modified by items and traps found in rooms, as well as items bought in the shop. 
+
+Objects:
+Items will increase a stat, but have a chance of decreasing another. Traps will decrease a stat, but have a chance of increasing another. Items bought in shops will only increase stats.
+
+Shop:
+The shop randomly generates three items that can increase each of your stats. Each has a different price, a different effect, and a different strength.
+
+Monster: 
+Monsters have the same set of stats that you do, each randomly generated. Monsters will get harder after each fight. 
+
+GAME OVER: 
+Once your life stat reaches 0, your final stats and the highest floor that you reached will be displayed. You can choose to start over with a new map or end the game. 
+
+Get through each floor, try not to die, and have fun!
